@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chengshengg/BED/issues"
   },
-  "homepage": "https://github.com/chengshengg/BED#readme"
+  "homepage": "https://github.com/chengshengg/BED#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
